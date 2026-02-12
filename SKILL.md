@@ -1,10 +1,9 @@
 ---
 name: cultural-integration
-description: Build unified organizations from diverse groups by adopting the best
-  of each culture and creating shared identity that people want to belong to.
+description: Build unified organizations from diverse groups by adopting the best of each culture and creating shared identity that people want to belong to.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - cultural-integration
